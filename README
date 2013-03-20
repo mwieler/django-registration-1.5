@@ -15,7 +15,7 @@ directory.
 ========================
 Django-registration-1.5
 ========================
-This repo contains James Reynold's updates to Django-registration.  I fixed one typo in his updates.  These updates make django-registration compatible with Django 1.5.
+This repo is a fork of James Bennett's Django-registration.  It contains James Reynold's updates to Django-registration.  I fixed one typo in his updates.  These updates make django-registration compatible with Django 1.5.
 
 James's description of his changes:
 "This is basically a combination of the cbv fork for (direct_to_template is deprecated) and the rejected pull request #30 for compatibility for the new User model"
@@ -26,6 +26,5 @@ https://bitbucket.org/ubernostrum/django-registration/pull-request/36/fixes-for-
 James Reynold's bitbucket:
 https://bitbucket.org/eire1130
 
-James Bennett's original Django-registration package:
-
+James Bennett's Django-registration package:
 https://bitbucket.org/ubernostrum/django-registration
